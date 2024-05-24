@@ -2,9 +2,9 @@
 
 Meu nome é Kemilly
 
--Estou estudando na Alura (https//www.alura.com.br)
--estou me desenvolvendo na linguagem de javaScrit 
--Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos 
+- Estou estudando na Alura (https//www.alura.com.br)
+- Estou me desenvolvendo na linguagem de javaScrit 
+- Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos 
 
  ### você entra em contato comigo
 
@@ -12,4 +12,4 @@ Meu nome é Kemilly
 
  @entaokemy
 
- !{}(https://i.gifer.com/GmUD.gif)
+ ![](https://media1.tenor.com/m/rXxeZPC7HDwAAAAC/angelina.gif)
